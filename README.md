@@ -25,6 +25,7 @@ I build the **Amaze** line of tools to eliminate latency and push Windows to its
 
 ### 💻 Languages & Tools
 * **System & Low-Level:** Zig, C#, Go
+* **High-Availability & Concurrency:** Elixir (Erlang/BEAM)
 * **Scripting & Automation:** Python
 * **Cross-Platform Dev:** Flutter (Dart)
 
